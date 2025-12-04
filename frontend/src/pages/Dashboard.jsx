@@ -2,13 +2,13 @@ import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import './Dashboard.css';
 
-const Dashboard = ({ setIsLoggedIn }) => {
+const Dashboard = () => {
   const navigate = useNavigate();
 
   const handleLogout = () => {
     localStorage.removeItem('userId');
-    setIsLoggedIn(false);
     navigate('/login');
+    window.location.reload();
   };
 
   return (
