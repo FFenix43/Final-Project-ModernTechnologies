@@ -1,3 +1,4 @@
+
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import './Auth.css';
@@ -15,7 +16,7 @@ export default function Login({ setIsLoggedIn }) {
     setLoading(true);
 
     try {
-      const response = await fetch('http://localhost:5000/login', {
+      const response = await fetch('http://localhost:3001/login', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ email, password }),
@@ -25,8 +26,8 @@ export default function Login({ setIsLoggedIn }) {
 
       if (data.success) {
         localStorage.setItem('userId', data.userId);
-        setIsLoggedIn(true);
         navigate('/dashboard');
+        window.location.reload();
       } else {
         setError('Invalid login');
       }
