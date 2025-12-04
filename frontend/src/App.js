@@ -2,6 +2,7 @@ import React from 'react';
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 import Login from './pages/Login';
 import Dashboard from './pages/Dashboard';
+import AIPredictions from './pages/AIPredictions';
 import './App.css';
 
 function App() {
@@ -14,6 +15,10 @@ function App() {
         <Route 
           path="/dashboard" 
           element={isLoggedIn ? <Dashboard /> : <Navigate to="/login" />}
+        />
+        <Route 
+          path="/ai-predictions" 
+          element={isLoggedIn ? <AIPredictions /> : <Navigate to="/login" />}
         />
         <Route path="/" element={<Navigate to={isLoggedIn ? "/dashboard" : "/login"} />} />
       </Routes>
