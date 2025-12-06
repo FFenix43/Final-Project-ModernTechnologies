@@ -1,0 +1,2412 @@
+{
+  "leaving": [],
+  "indecisive": [
+    {
+      "customer_id": "3",
+      "name": "Michael Thomas",
+      "ai_score": 41.27,
+      "risk_label": "indecisive"
+    },
+    {
+      "customer_id": "44",
+      "name": "Emma Moore",
+      "ai_score": 40.03,
+      "risk_label": "indecisive"
+    },
+    {
+      "customer_id": "58",
+      "name": "Sarah Walker",
+      "ai_score": 41.75,
+      "risk_label": "indecisive"
+    },
+    {
+      "customer_id": "76",
+      "name": "John Lee",
+      "ai_score": 42.95,
+      "risk_label": "indecisive"
+    },
+    {
+      "customer_id": "78",
+      "name": "Isabella Davis",
+      "ai_score": 42.67,
+      "risk_label": "indecisive"
+    },
+    {
+      "customer_id": "97",
+      "name": "Daniel Smith",
+      "ai_score": 42.21,
+      "risk_label": "indecisive"
+    },
+    {
+      "customer_id": "153",
+      "name": "John Moore",
+      "ai_score": 40.49,
+      "risk_label": "indecisive"
+    },
+    {
+      "customer_id": "155",
+      "name": "Olivia Martin",
+      "ai_score": 40.93,
+      "risk_label": "indecisive"
+    },
+    {
+      "customer_id": "161",
+      "name": "Michael Miller",
+      "ai_score": 42.05,
+      "risk_label": "indecisive"
+    },
+    {
+      "customer_id": "163",
+      "name": "Olivia Hernandez",
+      "ai_score": 42.3,
+      "risk_label": "indecisive"
+    },
+    {
+      "customer_id": "169",
+      "name": "Joseph Taylor",
+      "ai_score": 41.21,
+      "risk_label": "indecisive"
+    },
+    {
+      "customer_id": "182",
+      "name": "William White",
+      "ai_score": 41.35,
+      "risk_label": "indecisive"
+    },
+    {
+      "customer_id": "193",
+      "name": "James Wilson",
+      "ai_score": 40.61,
+      "risk_label": "indecisive"
+    },
+    {
+      "customer_id": "195",
+      "name": "Emma Miller",
+      "ai_score": 41.76,
+      "risk_label": "indecisive"
+    },
+    {
+      "customer_id": "262",
+      "name": "Emily Garcia",
+      "ai_score": 40.04,
+      "risk_label": "indecisive"
+    },
+    {
+      "customer_id": "302",
+      "name": "Emma Taylor",
+      "ai_score": 42.42,
+      "risk_label": "indecisive"
+    },
+    {
+      "customer_id": "373",
+      "name": "John Jackson",
+      "ai_score": 40.14,
+      "risk_label": "indecisive"
+    }
+  ],
+  "staying": [
+    {
+      "customer_id": "1",
+      "name": "Amelia Thomas",
+      "ai_score": 19.17,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "2",
+      "name": "Emily Brown",
+      "ai_score": 6.91,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "4",
+      "name": "Sarah Taylor",
+      "ai_score": 1.05,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "5",
+      "name": "Emily Martinez",
+      "ai_score": 5.07,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "6",
+      "name": "Robert Moore",
+      "ai_score": 8.53,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "7",
+      "name": "William Lopez",
+      "ai_score": 6.81,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "8",
+      "name": "Laura Garcia",
+      "ai_score": 33.37,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "9",
+      "name": "William Walker",
+      "ai_score": 3.75,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "10",
+      "name": "Emma Thompson",
+      "ai_score": 31.23,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "11",
+      "name": "Joseph Garcia",
+      "ai_score": 11.0,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "12",
+      "name": "James Lee",
+      "ai_score": 18.51,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "13",
+      "name": "Amelia Moore",
+      "ai_score": 16.65,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "14",
+      "name": "Sophia Hernandez",
+      "ai_score": 27.53,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "15",
+      "name": "Sophia Johnson",
+      "ai_score": 38.75,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "16",
+      "name": "Isabella Thomas",
+      "ai_score": 8.31,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "17",
+      "name": "Daniel Walker",
+      "ai_score": 30.23,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "18",
+      "name": "Liam Martin",
+      "ai_score": 35.53,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "19",
+      "name": "Isabella Johnson",
+      "ai_score": 30.3,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "20",
+      "name": "Isabella Anderson",
+      "ai_score": 34.41,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "21",
+      "name": "Sarah Walker",
+      "ai_score": 6.91,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "22",
+      "name": "Emily Thomas",
+      "ai_score": 11.8,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "23",
+      "name": "Robert Walker",
+      "ai_score": 9.52,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "24",
+      "name": "Laura Anderson",
+      "ai_score": 17.84,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "25",
+      "name": "Liam Davis",
+      "ai_score": 10.9,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "26",
+      "name": "Amelia Smith",
+      "ai_score": 31.58,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "27",
+      "name": "Mia Lopez",
+      "ai_score": 9.35,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "28",
+      "name": "Amelia White",
+      "ai_score": 8.45,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "29",
+      "name": "Mia White",
+      "ai_score": 37.63,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "30",
+      "name": "Emma Moore",
+      "ai_score": 26.96,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "31",
+      "name": "Charles Lopez",
+      "ai_score": 38.86,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "32",
+      "name": "Isabella White",
+      "ai_score": 1,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "33",
+      "name": "Mia Walker",
+      "ai_score": 36.17,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "34",
+      "name": "Amelia Wilson",
+      "ai_score": 11.96,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "35",
+      "name": "David Thomas",
+      "ai_score": 8.71,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "36",
+      "name": "Emily Brown",
+      "ai_score": 25.57,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "37",
+      "name": "Emily Martinez",
+      "ai_score": 20.92,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "38",
+      "name": "William Lee",
+      "ai_score": 32.6,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "39",
+      "name": "Daniel Anderson",
+      "ai_score": 21.2,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "40",
+      "name": "Michael Martin",
+      "ai_score": 25.07,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "41",
+      "name": "William Martinez",
+      "ai_score": 1.22,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "42",
+      "name": "Emily Anderson",
+      "ai_score": 4.58,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "43",
+      "name": "Sophia Wilson",
+      "ai_score": 11.31,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "45",
+      "name": "Robert Walker",
+      "ai_score": 20.89,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "46",
+      "name": "Amelia Lee",
+      "ai_score": 16.91,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "47",
+      "name": "Sarah Martinez",
+      "ai_score": 10.56,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "48",
+      "name": "James Miller",
+      "ai_score": 15.92,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "49",
+      "name": "David Davis",
+      "ai_score": 39.36,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "50",
+      "name": "Sarah Lopez",
+      "ai_score": 18.74,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "51",
+      "name": "James Miller",
+      "ai_score": 39.03,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "52",
+      "name": "Olivia Martin",
+      "ai_score": 36.96,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "53",
+      "name": "David Walker",
+      "ai_score": 34.42,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "54",
+      "name": "Emily Lopez",
+      "ai_score": 1,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "55",
+      "name": "Isabella Miller",
+      "ai_score": 27.09,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "56",
+      "name": "Isabella Hernandez",
+      "ai_score": 30.38,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "57",
+      "name": "Daniel Martinez",
+      "ai_score": 9.31,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "59",
+      "name": "Charles White",
+      "ai_score": 20.27,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "60",
+      "name": "Olivia Hernandez",
+      "ai_score": 21.18,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "61",
+      "name": "Charles Martin",
+      "ai_score": 1,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "62",
+      "name": "Isabella Martinez",
+      "ai_score": 19.4,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "63",
+      "name": "Liam Walker",
+      "ai_score": 13.19,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "64",
+      "name": "Mia Jackson",
+      "ai_score": 29.13,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "65",
+      "name": "David Davis",
+      "ai_score": 4.3,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "66",
+      "name": "Michael Garcia",
+      "ai_score": 14.53,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "67",
+      "name": "Mia Thomas",
+      "ai_score": 3.95,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "68",
+      "name": "Ava Lopez",
+      "ai_score": 26.14,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "69",
+      "name": "Mia Martin",
+      "ai_score": 29.56,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "70",
+      "name": "Sarah Walker",
+      "ai_score": 23.7,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "71",
+      "name": "Charles Martin",
+      "ai_score": 1,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "72",
+      "name": "Charles Hernandez",
+      "ai_score": 16.71,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "73",
+      "name": "Emma Jackson",
+      "ai_score": 3.76,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "74",
+      "name": "Robert Hernandez",
+      "ai_score": 13.2,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "75",
+      "name": "Joseph White",
+      "ai_score": 1,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "77",
+      "name": "Ava Smith",
+      "ai_score": 1,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "79",
+      "name": "Daniel Thompson",
+      "ai_score": 21.87,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "80",
+      "name": "David Miller",
+      "ai_score": 38.61,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "81",
+      "name": "William Moore",
+      "ai_score": 1,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "82",
+      "name": "David Moore",
+      "ai_score": 1,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "83",
+      "name": "Michael Lopez",
+      "ai_score": 39.57,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "84",
+      "name": "Liam Miller",
+      "ai_score": 35.91,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "85",
+      "name": "Sophia Martin",
+      "ai_score": 14.77,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "86",
+      "name": "Sophia Johnson",
+      "ai_score": 14.07,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "87",
+      "name": "Amelia Taylor",
+      "ai_score": 5.25,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "88",
+      "name": "Isabella Smith",
+      "ai_score": 32.82,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "89",
+      "name": "Michael Thomas",
+      "ai_score": 22.6,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "90",
+      "name": "Olivia Miller",
+      "ai_score": 7.13,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "91",
+      "name": "Liam Martin",
+      "ai_score": 9.37,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "92",
+      "name": "Isabella Garcia",
+      "ai_score": 29.28,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "93",
+      "name": "Sarah Thomas",
+      "ai_score": 3.54,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "94",
+      "name": "Amelia Brown",
+      "ai_score": 37.0,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "95",
+      "name": "Charles Martinez",
+      "ai_score": 24.9,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "96",
+      "name": "Ava Hernandez",
+      "ai_score": 8.87,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "98",
+      "name": "Liam Brown",
+      "ai_score": 26.7,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "99",
+      "name": "Robert Martin",
+      "ai_score": 21.0,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "100",
+      "name": "John Martinez",
+      "ai_score": 14.59,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "101",
+      "name": "David Jackson",
+      "ai_score": 33.66,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "102",
+      "name": "Michael Wilson",
+      "ai_score": 38.88,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "103",
+      "name": "John Wilson",
+      "ai_score": 1,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "104",
+      "name": "Charles Jackson",
+      "ai_score": 32.83,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "105",
+      "name": "Emily Martinez",
+      "ai_score": 21.36,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "106",
+      "name": "Daniel Taylor",
+      "ai_score": 1.43,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "107",
+      "name": "William Davis",
+      "ai_score": 13.92,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "108",
+      "name": "Sophia Taylor",
+      "ai_score": 21.74,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "109",
+      "name": "Laura Taylor",
+      "ai_score": 8.42,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "110",
+      "name": "Joseph Thomas",
+      "ai_score": 7.06,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "111",
+      "name": "David Brown",
+      "ai_score": 18.92,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "112",
+      "name": "Mia Thompson",
+      "ai_score": 22.32,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "113",
+      "name": "Joseph Davis",
+      "ai_score": 24.48,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "114",
+      "name": "Sophia Lopez",
+      "ai_score": 28.5,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "115",
+      "name": "Daniel Garcia",
+      "ai_score": 1.69,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "116",
+      "name": "Amelia Lee",
+      "ai_score": 16.46,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "117",
+      "name": "Emily Lee",
+      "ai_score": 8.66,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "118",
+      "name": "Emma Hernandez",
+      "ai_score": 29.81,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "119",
+      "name": "Robert Anderson",
+      "ai_score": 22.88,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "120",
+      "name": "Liam Jackson",
+      "ai_score": 38.22,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "121",
+      "name": "Amelia Hernandez",
+      "ai_score": 15.65,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "122",
+      "name": "Amelia Hernandez",
+      "ai_score": 8.0,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "123",
+      "name": "Sophia Johnson",
+      "ai_score": 26.76,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "124",
+      "name": "Laura Anderson",
+      "ai_score": 1,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "125",
+      "name": "Amelia White",
+      "ai_score": 35.9,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "126",
+      "name": "James Thomas",
+      "ai_score": 1,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "127",
+      "name": "Laura Johnson",
+      "ai_score": 9.7,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "128",
+      "name": "James Johnson",
+      "ai_score": 6.5,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "129",
+      "name": "Joseph Garcia",
+      "ai_score": 6.83,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "130",
+      "name": "Olivia Taylor",
+      "ai_score": 8.3,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "131",
+      "name": "Emily Moore",
+      "ai_score": 8.75,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "132",
+      "name": "Sophia Lopez",
+      "ai_score": 3.02,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "133",
+      "name": "Isabella Lopez",
+      "ai_score": 12.03,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "134",
+      "name": "Ava Walker",
+      "ai_score": 34.39,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "135",
+      "name": "David Lee",
+      "ai_score": 3.72,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "136",
+      "name": "Charles Martinez",
+      "ai_score": 36.32,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "137",
+      "name": "Sophia Moore",
+      "ai_score": 3.61,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "138",
+      "name": "Liam Thompson",
+      "ai_score": 17.62,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "139",
+      "name": "Laura Lee",
+      "ai_score": 36.2,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "140",
+      "name": "Robert Thomas",
+      "ai_score": 1,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "141",
+      "name": "Michael Martin",
+      "ai_score": 3.95,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "142",
+      "name": "Robert Anderson",
+      "ai_score": 19.5,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "143",
+      "name": "Isabella Martin",
+      "ai_score": 31.9,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "144",
+      "name": "Joseph Martin",
+      "ai_score": 25.45,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "145",
+      "name": "Robert Martin",
+      "ai_score": 34.12,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "146",
+      "name": "Emma Brown",
+      "ai_score": 6.04,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "147",
+      "name": "Robert Johnson",
+      "ai_score": 23.18,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "148",
+      "name": "David Lopez",
+      "ai_score": 1,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "149",
+      "name": "Mia Lee",
+      "ai_score": 10.58,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "150",
+      "name": "James Davis",
+      "ai_score": 27.45,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "151",
+      "name": "Sophia Hernandez",
+      "ai_score": 34.91,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "152",
+      "name": "Olivia Moore",
+      "ai_score": 16.93,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "154",
+      "name": "Emma Lee",
+      "ai_score": 1,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "156",
+      "name": "Emma Lopez",
+      "ai_score": 17.09,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "157",
+      "name": "Robert Moore",
+      "ai_score": 35.77,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "158",
+      "name": "John Davis",
+      "ai_score": 21.76,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "159",
+      "name": "Michael Moore",
+      "ai_score": 39.39,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "160",
+      "name": "Isabella White",
+      "ai_score": 4.81,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "162",
+      "name": "Michael Davis",
+      "ai_score": 7.2,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "164",
+      "name": "David Hernandez",
+      "ai_score": 24.77,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "165",
+      "name": "Amelia Thompson",
+      "ai_score": 8.17,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "166",
+      "name": "Sarah Martin",
+      "ai_score": 11.14,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "167",
+      "name": "Emily Davis",
+      "ai_score": 23.67,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "168",
+      "name": "Robert Walker",
+      "ai_score": 30.73,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "170",
+      "name": "Charles Lee",
+      "ai_score": 33.65,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "171",
+      "name": "William Johnson",
+      "ai_score": 1.57,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "172",
+      "name": "Sophia Taylor",
+      "ai_score": 8.9,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "173",
+      "name": "Emily Smith",
+      "ai_score": 17.51,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "174",
+      "name": "Emily White",
+      "ai_score": 34.0,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "175",
+      "name": "Laura Lopez",
+      "ai_score": 10.74,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "176",
+      "name": "Emma Anderson",
+      "ai_score": 24.24,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "177",
+      "name": "James Martin",
+      "ai_score": 30.0,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "178",
+      "name": "Isabella Jackson",
+      "ai_score": 33.05,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "179",
+      "name": "Michael Martin",
+      "ai_score": 33.26,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "180",
+      "name": "Sarah Johnson",
+      "ai_score": 1,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "181",
+      "name": "Joseph Thompson",
+      "ai_score": 7.63,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "183",
+      "name": "Laura Walker",
+      "ai_score": 9.0,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "184",
+      "name": "Emma Miller",
+      "ai_score": 5.31,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "185",
+      "name": "Liam Johnson",
+      "ai_score": 34.4,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "186",
+      "name": "John Martin",
+      "ai_score": 24.25,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "187",
+      "name": "Liam Thomas",
+      "ai_score": 1.83,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "188",
+      "name": "Liam Wilson",
+      "ai_score": 15.67,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "189",
+      "name": "Michael Anderson",
+      "ai_score": 37.0,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "190",
+      "name": "Charles White",
+      "ai_score": 36.26,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "191",
+      "name": "Sophia Anderson",
+      "ai_score": 30.84,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "192",
+      "name": "Ava Johnson",
+      "ai_score": 17.94,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "194",
+      "name": "Sarah Garcia",
+      "ai_score": 31.3,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "196",
+      "name": "Sophia Davis",
+      "ai_score": 27.85,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "197",
+      "name": "Liam Smith",
+      "ai_score": 12.42,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "198",
+      "name": "Michael Miller",
+      "ai_score": 15.42,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "199",
+      "name": "Daniel Moore",
+      "ai_score": 19.11,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "200",
+      "name": "Amelia Johnson",
+      "ai_score": 7.19,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "201",
+      "name": "David Thompson",
+      "ai_score": 20.66,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "202",
+      "name": "Emily Lopez",
+      "ai_score": 2.41,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "203",
+      "name": "John Thompson",
+      "ai_score": 37.13,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "204",
+      "name": "Ava Moore",
+      "ai_score": 27.2,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "205",
+      "name": "Joseph White",
+      "ai_score": 1,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "206",
+      "name": "Robert Smith",
+      "ai_score": 25.77,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "207",
+      "name": "Charles Wilson",
+      "ai_score": 16.58,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "208",
+      "name": "Michael Martinez",
+      "ai_score": 33.2,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "209",
+      "name": "Laura Jackson",
+      "ai_score": 32.35,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "210",
+      "name": "Robert Thompson",
+      "ai_score": 26.97,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "211",
+      "name": "Charles Smith",
+      "ai_score": 27.25,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "212",
+      "name": "Amelia Martinez",
+      "ai_score": 10.31,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "213",
+      "name": "Emily Wilson",
+      "ai_score": 1,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "214",
+      "name": "William Wilson",
+      "ai_score": 24.31,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "215",
+      "name": "Mia Hernandez",
+      "ai_score": 30.5,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "216",
+      "name": "Sarah Hernandez",
+      "ai_score": 16.64,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "217",
+      "name": "Michael Thompson",
+      "ai_score": 22.4,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "218",
+      "name": "Laura Brown",
+      "ai_score": 1,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "219",
+      "name": "Amelia Garcia",
+      "ai_score": 27.66,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "220",
+      "name": "Robert Smith",
+      "ai_score": 33.96,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "221",
+      "name": "Daniel Brown",
+      "ai_score": 34.53,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "222",
+      "name": "Sophia Taylor",
+      "ai_score": 10.5,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "223",
+      "name": "James Wilson",
+      "ai_score": 26.28,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "224",
+      "name": "Olivia Miller",
+      "ai_score": 8.99,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "225",
+      "name": "Michael Jackson",
+      "ai_score": 8.67,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "226",
+      "name": "David Thomas",
+      "ai_score": 25.79,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "227",
+      "name": "Emma Thompson",
+      "ai_score": 31.3,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "228",
+      "name": "Charles Lopez",
+      "ai_score": 22.51,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "229",
+      "name": "Amelia Wilson",
+      "ai_score": 38.32,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "230",
+      "name": "James Thomas",
+      "ai_score": 30.72,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "231",
+      "name": "John Anderson",
+      "ai_score": 17.88,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "232",
+      "name": "Liam Lopez",
+      "ai_score": 16.82,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "233",
+      "name": "Emma Walker",
+      "ai_score": 1.83,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "234",
+      "name": "Liam Thompson",
+      "ai_score": 33.54,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "235",
+      "name": "Michael Johnson",
+      "ai_score": 32.34,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "236",
+      "name": "Sophia Smith",
+      "ai_score": 25.54,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "237",
+      "name": "Isabella Davis",
+      "ai_score": 7.55,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "238",
+      "name": "Sophia Wilson",
+      "ai_score": 1,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "239",
+      "name": "Ava Anderson",
+      "ai_score": 23.69,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "240",
+      "name": "Michael Taylor",
+      "ai_score": 36.98,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "241",
+      "name": "William Davis",
+      "ai_score": 1.35,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "242",
+      "name": "Amelia Walker",
+      "ai_score": 25.8,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "243",
+      "name": "Charles Taylor",
+      "ai_score": 30.68,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "244",
+      "name": "Joseph Thompson",
+      "ai_score": 28.56,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "245",
+      "name": "Michael Walker",
+      "ai_score": 7.32,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "246",
+      "name": "Ava Garcia",
+      "ai_score": 25.2,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "247",
+      "name": "Liam Smith",
+      "ai_score": 34.57,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "248",
+      "name": "Sarah Moore",
+      "ai_score": 9.85,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "249",
+      "name": "Daniel Hernandez",
+      "ai_score": 33.45,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "250",
+      "name": "Emma White",
+      "ai_score": 6.81,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "251",
+      "name": "Amelia Smith",
+      "ai_score": 19.72,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "252",
+      "name": "Charles Brown",
+      "ai_score": 14.23,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "253",
+      "name": "William Moore",
+      "ai_score": 36.64,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "254",
+      "name": "Charles Garcia",
+      "ai_score": 11.0,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "255",
+      "name": "James Thompson",
+      "ai_score": 24.75,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "256",
+      "name": "Olivia Wilson",
+      "ai_score": 37.98,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "257",
+      "name": "Sophia Hernandez",
+      "ai_score": 31.78,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "258",
+      "name": "David Garcia",
+      "ai_score": 16.04,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "259",
+      "name": "Mia Moore",
+      "ai_score": 35.79,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "260",
+      "name": "Robert Wilson",
+      "ai_score": 36.89,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "261",
+      "name": "Michael Martinez",
+      "ai_score": 1,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "263",
+      "name": "Sarah Wilson",
+      "ai_score": 19.39,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "264",
+      "name": "Isabella Jackson",
+      "ai_score": 19.32,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "265",
+      "name": "Robert Lopez",
+      "ai_score": 33.24,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "266",
+      "name": "David Martinez",
+      "ai_score": 19.0,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "267",
+      "name": "John Garcia",
+      "ai_score": 14.81,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "268",
+      "name": "Emma Walker",
+      "ai_score": 16.07,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "269",
+      "name": "William Hernandez",
+      "ai_score": 24.32,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "270",
+      "name": "Sophia Garcia",
+      "ai_score": 18.43,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "271",
+      "name": "John Martin",
+      "ai_score": 12.5,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "272",
+      "name": "David Brown",
+      "ai_score": 21.49,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "273",
+      "name": "Olivia Anderson",
+      "ai_score": 37.27,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "274",
+      "name": "Sophia Lopez",
+      "ai_score": 33.09,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "275",
+      "name": "Charles Anderson",
+      "ai_score": 7.46,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "276",
+      "name": "Ava Hernandez",
+      "ai_score": 37.78,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "277",
+      "name": "Isabella Garcia",
+      "ai_score": 11.05,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "278",
+      "name": "John Jackson",
+      "ai_score": 19.85,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "279",
+      "name": "James Thompson",
+      "ai_score": 38.3,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "280",
+      "name": "Ava Walker",
+      "ai_score": 23.06,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "281",
+      "name": "Sophia Miller",
+      "ai_score": 27.6,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "282",
+      "name": "Michael Walker",
+      "ai_score": 15.14,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "283",
+      "name": "Charles Taylor",
+      "ai_score": 25.01,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "284",
+      "name": "Charles Thomas",
+      "ai_score": 1,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "285",
+      "name": "Sophia Lee",
+      "ai_score": 19.67,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "286",
+      "name": "David Garcia",
+      "ai_score": 1,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "287",
+      "name": "Charles Lopez",
+      "ai_score": 15.98,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "288",
+      "name": "Michael Johnson",
+      "ai_score": 26.4,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "289",
+      "name": "Amelia Davis",
+      "ai_score": 33.82,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "290",
+      "name": "Joseph Miller",
+      "ai_score": 7.27,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "291",
+      "name": "Liam Wilson",
+      "ai_score": 29.95,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "292",
+      "name": "David Walker",
+      "ai_score": 33.28,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "293",
+      "name": "Amelia Moore",
+      "ai_score": 33.92,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "294",
+      "name": "Sophia Jackson",
+      "ai_score": 7.68,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "295",
+      "name": "Emily Lee",
+      "ai_score": 1,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "296",
+      "name": "Emily Thompson",
+      "ai_score": 11.19,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "297",
+      "name": "Liam Martinez",
+      "ai_score": 1,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "298",
+      "name": "David Jackson",
+      "ai_score": 20.56,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "299",
+      "name": "Amelia Martin",
+      "ai_score": 14.89,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "300",
+      "name": "Liam Thomas",
+      "ai_score": 30.15,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "301",
+      "name": "Sarah Walker",
+      "ai_score": 37.46,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "303",
+      "name": "Mia Moore",
+      "ai_score": 5.25,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "304",
+      "name": "Emma Jackson",
+      "ai_score": 33.73,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "305",
+      "name": "Mia Moore",
+      "ai_score": 35.23,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "306",
+      "name": "Joseph Lee",
+      "ai_score": 22.38,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "307",
+      "name": "John Smith",
+      "ai_score": 22.02,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "308",
+      "name": "Ava Thompson",
+      "ai_score": 1,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "309",
+      "name": "Daniel Moore",
+      "ai_score": 26.63,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "310",
+      "name": "Emily Lee",
+      "ai_score": 38.71,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "311",
+      "name": "Charles Johnson",
+      "ai_score": 25.42,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "312",
+      "name": "Emma Brown",
+      "ai_score": 22.49,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "313",
+      "name": "Mia Martinez",
+      "ai_score": 22.83,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "314",
+      "name": "Isabella Thompson",
+      "ai_score": 25.46,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "315",
+      "name": "Emily Garcia",
+      "ai_score": 9.43,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "316",
+      "name": "Laura Walker",
+      "ai_score": 10.43,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "317",
+      "name": "Emma Johnson",
+      "ai_score": 29.86,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "318",
+      "name": "David Thomas",
+      "ai_score": 1,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "319",
+      "name": "Daniel Martin",
+      "ai_score": 13.8,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "320",
+      "name": "John Martin",
+      "ai_score": 36.97,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "321",
+      "name": "Charles Davis",
+      "ai_score": 14.85,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "322",
+      "name": "Sarah Walker",
+      "ai_score": 39.24,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "323",
+      "name": "David Martin",
+      "ai_score": 38.78,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "324",
+      "name": "Ava Johnson",
+      "ai_score": 34.29,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "325",
+      "name": "Sophia White",
+      "ai_score": 24.53,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "326",
+      "name": "Charles Brown",
+      "ai_score": 22.25,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "327",
+      "name": "Liam Martinez",
+      "ai_score": 12.86,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "328",
+      "name": "James Moore",
+      "ai_score": 7.33,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "329",
+      "name": "John Wilson",
+      "ai_score": 37.93,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "330",
+      "name": "Daniel Moore",
+      "ai_score": 19.01,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "331",
+      "name": "David Davis",
+      "ai_score": 23.25,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "332",
+      "name": "Michael Johnson",
+      "ai_score": 9.84,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "333",
+      "name": "Olivia Johnson",
+      "ai_score": 27.11,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "334",
+      "name": "Olivia Brown",
+      "ai_score": 3.73,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "335",
+      "name": "Robert Moore",
+      "ai_score": 27.46,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "336",
+      "name": "Amelia Walker",
+      "ai_score": 1,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "337",
+      "name": "Emily Lopez",
+      "ai_score": 11.19,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "338",
+      "name": "Ava Anderson",
+      "ai_score": 29.27,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "339",
+      "name": "Amelia Miller",
+      "ai_score": 30.72,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "340",
+      "name": "Emma Smith",
+      "ai_score": 33.0,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "341",
+      "name": "Isabella Moore",
+      "ai_score": 26.82,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "342",
+      "name": "John Wilson",
+      "ai_score": 26.68,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "343",
+      "name": "Emma Smith",
+      "ai_score": 27.24,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "344",
+      "name": "Mia Moore",
+      "ai_score": 6.04,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "345",
+      "name": "Emma Martinez",
+      "ai_score": 10.56,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "346",
+      "name": "Daniel Miller",
+      "ai_score": 14.45,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "347",
+      "name": "Mia Smith",
+      "ai_score": 20.58,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "348",
+      "name": "Charles Lopez",
+      "ai_score": 8.06,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "349",
+      "name": "Liam Lee",
+      "ai_score": 1,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "350",
+      "name": "John Walker",
+      "ai_score": 1,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "351",
+      "name": "Joseph Walker",
+      "ai_score": 38.33,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "352",
+      "name": "Liam Walker",
+      "ai_score": 38.95,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "353",
+      "name": "William Hernandez",
+      "ai_score": 37.84,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "354",
+      "name": "David Jackson",
+      "ai_score": 20.16,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "355",
+      "name": "Sarah Taylor",
+      "ai_score": 25.25,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "356",
+      "name": "Robert Wilson",
+      "ai_score": 16.14,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "357",
+      "name": "Robert Thompson",
+      "ai_score": 1,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "358",
+      "name": "Emma Hernandez",
+      "ai_score": 3.29,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "359",
+      "name": "James Smith",
+      "ai_score": 1,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "360",
+      "name": "Joseph Thompson",
+      "ai_score": 13.25,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "361",
+      "name": "Mia Johnson",
+      "ai_score": 6.76,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "362",
+      "name": "Liam Johnson",
+      "ai_score": 1,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "363",
+      "name": "Michael White",
+      "ai_score": 16.62,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "364",
+      "name": "Robert Brown",
+      "ai_score": 19.57,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "365",
+      "name": "Mia Taylor",
+      "ai_score": 20.33,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "366",
+      "name": "Emily Anderson",
+      "ai_score": 32.01,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "367",
+      "name": "Sophia Martin",
+      "ai_score": 29.29,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "368",
+      "name": "Michael Lopez",
+      "ai_score": 34.03,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "369",
+      "name": "Amelia Brown",
+      "ai_score": 34.83,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "370",
+      "name": "Liam Miller",
+      "ai_score": 11.89,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "371",
+      "name": "Joseph Thomas",
+      "ai_score": 12.8,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "372",
+      "name": "Isabella Anderson",
+      "ai_score": 11.6,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "374",
+      "name": "Emma Brown",
+      "ai_score": 31.35,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "375",
+      "name": "Amelia Taylor",
+      "ai_score": 12.65,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "376",
+      "name": "Amelia Martin",
+      "ai_score": 22.59,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "377",
+      "name": "Robert White",
+      "ai_score": 7.81,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "378",
+      "name": "Sophia Moore",
+      "ai_score": 20.15,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "379",
+      "name": "Emma Wilson",
+      "ai_score": 2.89,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "380",
+      "name": "Ava Walker",
+      "ai_score": 21.44,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "381",
+      "name": "Joseph White",
+      "ai_score": 10.58,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "382",
+      "name": "Robert Wilson",
+      "ai_score": 23.33,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "383",
+      "name": "Liam Taylor",
+      "ai_score": 27.18,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "384",
+      "name": "Sarah Lopez",
+      "ai_score": 28.97,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "385",
+      "name": "Olivia Walker",
+      "ai_score": 22.44,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "386",
+      "name": "Emily Thomas",
+      "ai_score": 9.21,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "387",
+      "name": "John Taylor",
+      "ai_score": 35.58,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "388",
+      "name": "Daniel White",
+      "ai_score": 21.59,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "389",
+      "name": "Mia Anderson",
+      "ai_score": 1,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "390",
+      "name": "Daniel Lee",
+      "ai_score": 25.46,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "391",
+      "name": "Liam Wilson",
+      "ai_score": 12.03,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "392",
+      "name": "Sophia Johnson",
+      "ai_score": 34.65,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "393",
+      "name": "Michael Walker",
+      "ai_score": 31.97,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "394",
+      "name": "John Martinez",
+      "ai_score": 11.88,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "395",
+      "name": "Mia Miller",
+      "ai_score": 29.81,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "396",
+      "name": "Sarah Martin",
+      "ai_score": 13.15,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "397",
+      "name": "Liam Davis",
+      "ai_score": 1,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "398",
+      "name": "David White",
+      "ai_score": 32.41,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "399",
+      "name": "Robert Garcia",
+      "ai_score": 32.2,
+      "risk_label": "staying"
+    },
+    {
+      "customer_id": "400",
+      "name": "Amelia White",
+      "ai_score": 39.31,
+      "risk_label": "staying"
+    }
+  ],
+  "summary": {
+    "leaving": 0,
+    "indecisive": 17,
+    "staying": 383
+  }
+}

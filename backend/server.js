@@ -12,6 +12,10 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
+// AI predictions route
+const aiRouter = require('./ai');
+app.use('/api', aiRouter);
+
 // Login endpoint
 app.post('/login', (req, res) => {
   const { email, password } = req.body;
@@ -52,7 +56,18 @@ app.get('/api/customers', (req, res) => {
 });
 
 
-const PORT = 3001;
+// Use port from environment (required by many hosting providers)
+const PORT = process.env.PORT || 3001;
+
+// Serve frontend static files when available (production)
+const frontendBuildPath = path.join(__dirname, '../frontend/build');
+if (require('fs').existsSync(frontendBuildPath)) {
+  app.use(express.static(frontendBuildPath));
+  app.get('*', (req, res) => {
+    res.sendFile(path.join(frontendBuildPath, 'index.html'));
+  });
+}
+
 app.listen(PORT, () => {
   console.log(`✅ Server running on http://localhost:${PORT}`);
 });
