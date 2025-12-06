@@ -60,8 +60,6 @@ const Dashboard = () => {
                 <th>Name</th>
                 <th>Email</th>
                 <th>Status</th>
-                <th>Churn Risk</th>
-                <th>Risk Level</th>
               </tr>
             </thead>
             <tbody>
@@ -71,12 +69,6 @@ const Dashboard = () => {
                   <td>{customer.name}</td>
                   <td>{customer.email}</td>
                   <td>{customer.status}</td>
-                  <td>{parseFloat(customer.churn_risk_score).toFixed(2)}</td>
-                  <td>
-                    <span className={`risk-${customer.risk_level}`}>
-                      {customer.risk_level}
-                    </span>
-                  </td>
                 </tr>
               ))}
             </tbody>
