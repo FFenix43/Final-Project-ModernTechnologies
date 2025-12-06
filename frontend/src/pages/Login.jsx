@@ -4,6 +4,7 @@ import { useNavigate } from 'react-router-dom';
 import './Auth.css';
 
 export default function Login({ setIsLoggedIn }) {
+  const API_BASE = process.env.REACT_APP_API_URL || '';
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
   const [error, setError] = useState('');
@@ -16,7 +17,7 @@ export default function Login({ setIsLoggedIn }) {
     setLoading(true);
 
     try {
-      const response = await fetch('http://localhost:3001/login', {
+      const response = await fetch(`${API_BASE}/login`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ email, password }),

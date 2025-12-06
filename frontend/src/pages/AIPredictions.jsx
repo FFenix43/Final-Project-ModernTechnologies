@@ -6,9 +6,10 @@ const AIPredictions = () => {
   const navigate = useNavigate();
   const [predictions, setPredictions] = React.useState(null);
   const [error, setError] = React.useState('');
+  const API_BASE = process.env.REACT_APP_API_URL || '';
 
   React.useEffect(() => {
-    fetch('http://localhost:3001/api/ai-predictions')
+    fetch(`${API_BASE}/api/ai-predictions`)
       .then(res => res.json())
       .then(data => {
         if (data && data.summary) {
