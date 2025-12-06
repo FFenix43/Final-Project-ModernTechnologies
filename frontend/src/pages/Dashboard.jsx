@@ -3,6 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import './Dashboard.css';
 
 const Dashboard = () => {
+  const API_BASE = process.env.REACT_APP_API_URL || '';
   const [customers, setCustomers] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState('');
@@ -14,7 +15,7 @@ const Dashboard = () => {
 
   const fetchCustomers = async () => {
     try {
-      const response = await fetch('http://localhost:3001/api/customers');
+      const response = await fetch(`${API_BASE}/api/customers`);
       const data = await response.json();
       if (data.success) {
         setCustomers(data.data.slice(0, 10)); // Show first 10 rows
