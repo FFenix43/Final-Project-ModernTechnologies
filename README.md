@@ -1,28 +1,42 @@
-# Final-Project-ModernTechnologies
+#Final-Project-ModernTechnologies
+##Customer Churn Prediction Dashboard
+###Project Overview
 
-## Customer Churn Prediction Dashboard
+For my final project, I built a Customer Churn Prediction Dashboard — an end-to-end web application that helps small and medium-sized businesses identify customers who are at risk of leaving. Customer churn directly impacts revenue, and many organizations struggle to detect customer behavior early enough to act on it.
 
-### Project Overview
-For my final project, I decided to build a **Customer Churn Prediction Dashboard** - an interactive web application designed to help small to medium sizes bussinesses to identify and retain customers from leaving.
-Customer churn directly impacts a company's revenue, and many organizations who struggle to detect customer behavior, and act on it. This web application solves that problem by using the AI to predict the likehood, and visualize the data of customer behavior through an intuitive dashboard interface.
+This application solves that problem by using a simple AI model to predict the likelihood of churn and by visualizing customer insights through an intuitive dashboard interface.
 
-### The target
-This application is set to target **Business Analyst** who need actionable insights into customer behavior. Another target **Marketing Professionals** seeking to desing personlized retention campaings. 
+##The Target
 
-### Core Features
-**Churn Prediction Model** - Generates indiviual customer risk scores using Python and the library scikit-learn.
-**Interactive visualizations** - Allows the user to interact with the dashboard.
-**What-If Simulation tool** - Allows testing of potential retention strategies and their effects.
-**Automated Insights and Recommendations** - Provides AI-driven suggestions for proactive decision-making.
+This application is designed for:
 
-### Technology Stack
-**Backend:** Python, Pandas, Scikit-learn  
-**Database:** SQLite  
-**Frontend:** React  
-**DevOps & Deployment:** Docker, Jenkins pipelines, Google Cloud Platform  
+Business Analysts, who need actionable insights into customer behavior.
 
-#### Author
-**Tomas Alvarenga**  
-Data Analytics & AI Minor Student at Belmont Abbey College
+Marketing Professionals, who want to design targeted retention campaigns.
 
+Managers, who want clear dashboards to guide decision-making.
 
+##Core Features
+
+AI-Generated Churn Prediction – A Python script analyzes customer data and assigns a churn risk score (1–100), grouping customers into three categories: high risk, medium risk, and low risk.
+
+Interactive Visualizations – The React frontend displays risk distributions, customer lists, and analytical summaries.
+
+Login & Authentication – Includes a working authentication system with demo credentials for testing.
+
+Customer Dataset (400 records) – A synthetic dataset was generated for this project, including spend, engagement, tenure, ticket count, visit frequency, and demographic factors.
+
+Backend API – A Node.js + Express backend connected to a SQLite database serves customer insights and manages authentication.
+
+Deployment Pipeline – Both frontend and backend are deployed using Google Cloud Platform.
+
+##Technology Stack
+
+Backend: Node.js, Express, SQLite
+AI/Data Layer: Python, Pandas
+Frontend: React
+DevOps & Deployment: Google Cloud Run (backend), Google Cloud Storage (frontend), Cloud Build (CI/CD)
+
+Author
+
+*Tomas Alvarenga*
